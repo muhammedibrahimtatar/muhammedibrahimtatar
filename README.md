@@ -1,5 +1,5 @@
 <h1 align="left">Hi there, I'm İbrahim 👋</h1>
-</hr>
+
 <h3 align="left">I'am Frontend Developer. I love coding, writing.</h3>
 <h3 align="left">If you want to reach me: tataaar27@gmail.com</h3>
 </br>
