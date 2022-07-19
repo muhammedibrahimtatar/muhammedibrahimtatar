@@ -5,7 +5,7 @@
 </br>
 </br>
 
-<h3 align='center'>Languages and Tools</h2>
+<h3 align='center'>Skills</h2>
 <p align="center">
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> 
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
