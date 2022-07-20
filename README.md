@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm İbrahim 👋</h1>
+<h1 align="left">Hi I'm İbrahim 👋</h1>
 
 <h3 align="left">I'am Frontend Developer.</h3>
 <h3 align="left">If you want to reach me: tataaar27@gmail.com</h3>
