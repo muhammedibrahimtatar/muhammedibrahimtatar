@@ -1,5 +1,5 @@
 # 💫 About Me:
-I know Html,Css,Javascript.<br>I'm learning ReactJS<br>I develop myself by making projects.
+I know Html,Css,Javascript.<br>I'm learning ReactJS and ASP.NET<br>I develop myself by making projects.
 
 
 ## 🌐 Socials:
